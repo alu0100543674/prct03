@@ -1,0 +1,11 @@
+21. ¿Qué diferencia hay entre "\t\n" y ’\t\n’?
+
+
+
+
+22. ¿Cómo funciona %q? ¿Qué es %q{hello world\n}? ¿Qué es %q{’a’ ’b’ ’c’}?
+
+
+
+
+23. ¿Cómo funciona %Q? ¿Qué es %Q{hello world\n}? ¿Qué es %Q{"a" "b" "c"}?
